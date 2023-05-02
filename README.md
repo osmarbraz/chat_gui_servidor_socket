@@ -4,7 +4,7 @@
 
 - Programa servidor java de chat usando sockets.
 - Permite receber a conexão de somente de N clientes.
-- Use o repositório "socket_cliente_chat_gui" como o programa cliente.
+- Use o repositório "socket_chat_gui_cliente" como o programa cliente.
 
 ## Arquivos
 
